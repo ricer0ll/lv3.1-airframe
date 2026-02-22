@@ -1,5 +1,5 @@
 # LV3.1 Airframe
-Design and testing documents related to the LV3.1 airframe.
+Design and testing documents related to the LV3.1 airframe. BRIAN LE
 
 ## Table of Contents
 
